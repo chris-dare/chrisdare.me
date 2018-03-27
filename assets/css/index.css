@@ -1,2 +1,44 @@
 @import url('nav.css');
 @import url('components.css');
+@import url('fonts.css');
+
+#video-background {
+  position: fixed;
+  right: 0; 
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+  width: auto; 
+  height: auto;
+  z-index: -100;
+}
+
+.about{
+  background-color: #deebf7;
+  margin: 0px;
+  
+}
+.even{
+  background-color: #deebf7;
+  padding: 10% 10px;
+  color: #072c50;
+  min-height: 100%;
+}
+.header{
+  min-height: 500px;
+  background-color: transparent;
+  padding: 15% 25%;
+}
+.header-bg{
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/with-derek-appiah.jpg'), no-repeat;
+  /* background: url('../video/chris-vitae-still.mp4'); */
+}
+.odd{
+  background-color: #072c50;
+  padding: 10% 10px;
+  color: #FFFFFF;
+  min-height: 400px;
+}
+section{
+  min-height: 400px;
+}
