@@ -1,6 +1,7 @@
 @import url('nav.css');
 @import url('components.css');
 @import url('fonts.css');
+@import url('colors.css');
 
 #video-background {
   position: fixed;
@@ -32,6 +33,10 @@
 .header-bg{
   background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('../images/with-derek-appiah.jpg'), no-repeat;
   /* background: url('../video/chris-vitae-still.mp4'); */
+}
+.header-play{
+  margin-top: 70px;
+  z-index: 100;
 }
 .odd{
   background-color: #072c50;
