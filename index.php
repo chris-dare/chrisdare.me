@@ -106,9 +106,16 @@
 		                                            <h4>Analyst, <br>MTN Ghana - IC Securities (Ghana) Limited</h4>
 		                                        </div>
 		                                    </div>
-		                                    <p>Worked with an Inflexion Subsidiary, IC Securities, to raise USD 787mn for Scancom PLC (MTN Ghana) - the biggest telco in Ghana and most visible brand in the country.&nbsp;IC Securities is an Africa-focused investment banking and securities firm, serving sovereign, institutional, corporate and individual clients.<br><br>● Handled technical support for 30 Banks and Brokerage institutions as well as retail investors during the MTN Ghana share offer<br>● Performed usability tests on software updates during the share offer<br>● Worked on technical and policy documentation for IC Securities Holdings Limited
-		<br>● Copywriting for IC Securities TradeLive platform<br>● Performed usability tests on IC Securities TradeLive platform
-		<br>● Ran financial reconciliations for all USSD subscriptions<br>●&nbsp;Performed data analytics on MTN IPO with Tableau<br>● Devised IC Securities' retail business strategy in a team with management<br></p>
+											<p>Worked with an Inflexion Subsidiary, IC Securities, to raise USD 787mn for Scancom PLC (MTN Ghana) - the biggest telco in Ghana and most visible brand in the country.
+											&nbsp;IC Securities is an Africa-focused investment banking and securities firm, serving sovereign, institutional, corporate and individual clients.<br>
+												<br>● Handled technical support for 30 Banks and Brokerage institutions as well as retail investors during the MTN Ghana share offer
+												<br>● Performed usability tests on software updates during the share offer
+												<br>● Worked on technical and policy documentation for IC Securities Holdings Limited
+												<br>● Copywriting for IC Securities TradeLive platform<br>● Performed usability tests on IC Securities TradeLive platform
+												<br>● Ran financial reconciliations for all USSD subscriptions
+												<br>● Devised IC Securities' retail business strategy in a team with management<br>
+												<br>● Building a wealth management subsidiary with Inflexion Capital Management<br>
+											</p>
 		                                    <hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 		                                </div>
 		                            </div><div class="tab-content text-left">
