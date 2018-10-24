@@ -131,7 +131,7 @@
 		                                        </div>
 		                                    </div>
 											<p>Worked with an Inflexion Subsidiary, IC Securities, to raise USD 787mn for Scancom PLC (MTN Ghana) - the biggest telco in Ghana and most visible brand in the country.</p>
-											&nbsp;IC Securities is an Africa-focused investment banking and securities firm, serving sovereign, institutional, corporate and individual clients.</ol>
+											<br>IC Securities is an Africa-focused investment banking and securities firm, serving sovereign, institutional, corporate and individual clients.
 											<p>
 												<ol>● Handled technical support for 30 Banks and Brokerage institutions as well as retail investors during the MTN Ghana share offer</ol>
 												<ol>● Performed usability tests on software updates during the share offer</ol>
