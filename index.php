@@ -16,7 +16,7 @@
           </h1>
           
           <p class="subtitle">
-            Entrepreneurial leader and innovator with expertise at the intersection of product
+            Entrepreneurial leader and innovator with expertise at the intersection of machine learning, product
             management, software engineering and communication. Focusses on developing and
             optimizing solutions for business growth. Past work increased customer bases, revenue
             and profit margins for clients and partners. Seeking to harnessing applications of AI and
