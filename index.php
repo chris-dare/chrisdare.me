@@ -27,7 +27,7 @@
           </p>
 
           <p class="subtitle">
-              <br><b>Also <strike>searching for<strike> taking a summer internship in <strike>research/engineering<strike> machine learning.</b>
+              <br><b>Also <strike>searching for</strike> taking a summer internship in <strike>research/engineering</strike> machine learning.</b>
               I do some pretty interesting work with Rwanda's Revenue Authority. 
               By day, I work with the data science team to create a decision support system to detect fradulent consignments declared for import. 
               Our objectives are to facilitate trade at Rwanda's borders and increase revenue generation.
