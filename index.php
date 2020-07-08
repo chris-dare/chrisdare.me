@@ -53,7 +53,7 @@
           <p>
               We're in tough times, people. Stay safe and take charge. 
               Whoever's working on a COVID vaccine, we're rooting for you.
-              The world will not be the same when this is all over...but it'll certainly will be better than it is now.
+              The world will not be the same when this is all over...but it certainly will be better than it is now.
           </p>
       </div>
     </div>
