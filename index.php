@@ -27,21 +27,18 @@
           </p>
 
           <p class="subtitle">
-              <br><b>Also searching for a summer internship in research/engineering.</b> Areas of interest:
-              <div>
-                <ol class="subtitle" >
-                  
-                  <li>Research or product development concerning a problem with lots of data</li>
-                  <li>Machine learning and deep learning</li>
-                  <li>Cloud computing/Big data</li>
-                </ol>
-              </div>
+              <br><b>Also <strike>searching for<strike> taking a summer internship in <strike>research/engineering<strike> machine learning.</b>
+              I do some pretty interesting work with Rwanda's Revenue Authority. 
+              By day, I work with the data science team to create a decision support system to detect fradulent consignments declared for import. 
+              Our objectives are to facilitate trade at Rwanda's borders and increase revenue generation.
+              By night, I sleep :-). <br>
+              Actually, by night (3/5) and weekends, I spend time with a top secret team building a secretive closed circle social platform.   
               <br>
 
           </p>
 
           <p class="subtitle">
-            Everyone - including me - says I should upgrade my website. But, bayesian statistics tell me that's really bleak at the moment.
+            Everyone - including me - says I should upgrade my website. But, bayesian statistics tell me that's really bleak at the moment. (Update, July 2020: Still bleak)
           </p>
 
           <p class="subtitle">
@@ -51,6 +48,12 @@
 
           <p class="subtitle">
               Also, always happy to chat. Send me an email: <b><a target="_blank" href="mailto:hello@chrisdare.me">hello@chrisdare.me</a> </b>
+          </p>
+
+          <p>
+              We're in tough times, people. Stay safe and take charge. 
+              Whoever's working on a COVID vaccine, we're rooting for you.
+              The world will not be the same when this is all over...but it'll certainly will be better than it is now.
           </p>
       </div>
     </div>
