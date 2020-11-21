@@ -113,11 +113,14 @@
 													<h4>Graduate Student Researcher, Carnegie Mellon University</h4>
 												</div>
 											</div>
-											<p>Working with Prof. Rita Singh and 3 coursemates from my deep learning course.
+											<p>Working with 
+												<a href="https://cylab.cmu.edu/directory/bios/singh-rita.html" target="blank">Prof. Rita Singh </a>
+												and 3 coursemates from my deep learning course.
 												We're evaluating the generation of poetry by transformer models, specifically GPT-2.
-												Areas of focus: rhyming, rhythm, perplexity and coreferencing in poems.
-											<br>Currently, I work on rhyme scoring for evaluation and as a potential discriminator/loss
-											function. 
+												<strong>Areas of focus:</strong> rhyming, rhythm, perplexity and coreferencing in poems.
+												<br>I currently work on rhyme scoring for evaluation and as a potential discriminator/loss
+											function.
+											<br> 
 											<br>See our team progress 
 											<a href="https://github.com/mfogelson/11-785_project"> here</a>. 
 											View my contributions 
@@ -168,7 +171,7 @@
 												</div>
 											</div>
 											<p>Started grad school at CMU. 
-												Taking classes, most machine learning, from Kigali and Pittsburgh
+												Taking classes, mostly in data science, from Kigali and Pittsburgh
 											<br>Courses:</p>
 											<p>
 												<ol>● Strategic use of digital information in enterprises</ol>
@@ -180,7 +183,11 @@
 												<ol>● Introduction to human computer interaction</ol>
 												<ol>● Deep learning</ol>
 												<ol>● Privacy, policy, law and technology</ol>
-												<ol>● </ol>
+											</p>
+											<p>I had the opportunity to moderate a talk with H.E Paul Kagame, President of Rwanda. 
+												<div class="text-center">
+													<a name="" id="" style="border-color: #d64727; color: white; background-color: #d64727;" class="text-center btn btn-sm" href="#" role="button">Watch the conversation</a>
+												</div>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
