@@ -133,6 +133,12 @@
 													request
 												</a>.
 											</p>
+											<div class="btn-group">
+												<a name="" id="" style="border-color: #d64727; color: white; background-color: #d64727;" target="blank" class="text-center btn btn-sm" href="https://github.com/mfogelson/11-785_project" role="button">See our progress</a>
+												<a name="" id="" target="blank" class="text-center btn btn-sm" href="https://github.com/mfogelson/11-785_project/commits?author=dexios1" role="button">View my contributions</a>
+												<a name="" id="" target="blank" class="text-center btn btn-sm" href="mailto:hello@chrisdare.me?cc=cdare@andrew.cmu.edu&subject=Request%20to%20review%20your%20mytorch%20repo&body=Hello%20Chris%2C%20%0A%0AWe%E2%80%99re%20reviewing%20your%20website%20and%20would%20like%20to%20see%20your%20deep%20learning%20framework.%20Kindly%20grant%20the%20following%20users%20with%20access%20to%20your%20GitHub%20repository%3A%20username1%2C%20username2" 
+												role="button">Access my deep learning kit</a>
+											</div>
 											
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
@@ -160,6 +166,9 @@
 													clarity in implementation via storyboarding.</ol>
 													<ol>● Prototyped user interfaces for EMR and patient apps.</ol>
 											</p>
+											<div class="text-center">
+												<a name="" id="" target="blank" class="text-center btn btn-sm" href="https://serenity.health" role="button">See the Serenity app</a>
+											</div>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
 										<div>
