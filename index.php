@@ -176,7 +176,7 @@
 												<img alt="Pic" class="mb24 pull-left" src="img/logo - cmu.png" width="120">
 												<div class="pull-left p32 p0-xs pt24">
 													<h6 class="uppercase mb8 number"> JULY 2019 - PRESENT</h6>
-													<h4>Graduate Student <br>Carnegie Mellon University Africa</h4>
+													<h4>Graduate Student, <br>Carnegie Mellon University Africa</h4>
 												</div>
 											</div>
 											<p>Started grad school at CMU. 
