@@ -181,7 +181,8 @@
 											</div>
 											<p>Started grad school at CMU. 
 												Taking classes, mostly in data science, from Kigali and Pittsburgh
-											<br>Courses:</p>
+											</p>
+											<br>Courses:
 											<p>
 												<ol>● Strategic use of digital information in enterprises</ol>
 												<ol>● Artificial neural networks</ol>
