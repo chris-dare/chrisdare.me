@@ -61,7 +61,8 @@
 					<div class="col-sm-12 text-center">
 						<h3>Experience</h3>
 						<p class="lead">I've been taught to stand out by the quality and impact of my work. If it's not enough I
-							pause, consider and then I work smarter.<br>This is my work experience within the last three years</p>
+							pause, consider and then I work smarter. </p>
+							<br>This is my work experience within the last three years
 					</div>
 				</div>
 
