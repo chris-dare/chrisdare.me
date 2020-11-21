@@ -186,7 +186,7 @@
 											</p>
 											<p>I had the opportunity to moderate a talk with H.E Paul Kagame, President of Rwanda. 
 												<div class="text-center">
-													<a name="" id="" style="border-color: #d64727; color: white; background-color: #d64727;" class="text-center btn btn-sm" href="#" role="button">Watch the conversation</a>
+													<a name="" id="" target="blank" style="border-color: #d64727; color: white; background-color: #d64727;" class="text-center btn btn-sm" href="https://www.youtube.com/watch?v=FyeUwBknYY4" role="button">Watch the conversation</a>
 												</div>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
