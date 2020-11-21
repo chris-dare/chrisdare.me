@@ -29,25 +29,16 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<h1 class="mb0 uppercase bold italic">CHRIS DARE</h1>
-						<h5 class="uppercase mb32">sOFTWARE DEVELOPER | TECHNOLOGY ANALYST | CEO IN TRAINING</h5>
-						<p class="lead">CSU '14 | SEO Africa '17 | VVU '17 | DECAM LC | CMU '21</p>
+						<h5 class="uppercase mb32"> DATA SCIENTIST | CEO IN TRAINING</h5>
+						<p class="lead">Applied ML Grad student at Carnegie Mellon</p>
 
-						<p class="lead">Experienced in Technology Consulting, Business Analysis, Software Development and Product
-							Innovation.</p>
+						<p class="lead">Data scientist and engineer interested in ML/NLP R&D and 
+						building data-driven products/systems for emerging markets. 
+						Passionate about intrapreneurship, AI/cognitive systems and API development.
+						</p>
 
-						<p class="lead">My mission is to drive change and innovation across my home: The African Continent. This
-							place was once the center of global trade. Soon it will be again; <i>the world is resetting and Africa
-								stands to ride over the storm that's brewing.</i> I'm choosing to stay to here and join our future
-							heroes unfold the story - ready to work with my sleeves folded up.</p>
-
-						<p class="lead">I'm a visionary; my perceptive ability causes me to see possibilities everywhere. I get
-							excited and enthusiastic about my ideas, and spread my enthusiasm to others. Being blessed with ideas
-							everyday also means it's a little tough to stick to one and grind - but I'm gradually gaining mastery over
-							that. I'm perfecting myself into becoming the ultimate innovator and&nbsp;learning to work with,
-							understand and motivate people as well as create value to sell.</p>
-
-						<p class="lead">This one is for the geeks and nerds: <i>As a retired coding polyglot, I now focus on coding
-								with Python and JS (React.js to be more specific). The AI dream is getting more real.</i><br></p>
+						<p class="lead">My mission is to drive change and innovation across my home: The African Continent. 
+						I'm choosing to stay to here and join our future heroes unfold the story - ready to work with my sleeves folded up.</p>
 					</div>
 				</div>
 
@@ -59,9 +50,18 @@
 			<div class="container">
 				<div class="row mb64 mb-xs-24">
 					<div class="col-sm-12 text-center">
+						<h3>Resume</h3>
+						<p class="lead">Download a copy of my resume.</p>
+						<a href="http://chrisdare.me/resumes/chris_dare_resume_latest.pdf" target="blank">
+							<button class="btn ">Download</button>
+						</a>
+					</div>
+				</div>
+				<div class="row mb64 mb-xs-24">
+					<div class="col-sm-12 text-center">
 						<h3>Experience</h3>
 						<p class="lead">I've been taught to stand out by the quality and impact of my work. If it's not enough I
-							pause, consider and then I work smarter.<br>This is my work experience within the last two years</p>
+							pause, consider and then I work smarter.<br>This is my work experience within the last three years</p>
 					</div>
 				</div>
 
@@ -71,49 +71,116 @@
 							<ul class="tabs thirds mb64 mb-xs-24">
 								<li class="active">
 									<div class="tab-title">
-										<span>2017</span>
+										<span>2020</span>
 									</div>
 									<div class="tab-content text-left">
 										<div>
 											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - SEO Africa.png">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - rra.png" width="120" height="60">
 												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">JuNE 2017</h6>
-													<h4>Graduated from Valley View University <br>with a CS Degree. An interest in
-														investing<br>led me to SEO Africa<br></h4>
+													<h6 class="uppercase mb8 number">May 2020 - August 2020</h6>
+													<h4>Data Scientist, Rwanda Revenue Authority</h4>
 												</div>
 											</div>
+											<p>ML for fraud detection in international trade: Prototyped an ML scoring system as a
+												replacement for a rule-based selectivity model for identifying fraudulent consignments.
+											<br><strong>Objectives:</strong> Facilitating trade and increasing revenue gains.
+											<br><strong>Performance:</strong> 90% precision, 95% recall.
+											<br><strong>My contributions:</strong>
+											<br>
+											</p>
 											<p>
-												<ol>● CS Major at Valley View University</ol>
-												<ol>● President and Senator, Computing Science Students' Association (2016-2017)</ol>
-												<ol>● Graduated with a 3.31/4.00 CGPA and a 3.87 math CGPA</ol>
-												<ol>● Awarded "Best behaved Student"</ol>
-												<ol>●&nbsp;Admitted into the SEO Africa local internship program to work with Inflexion Capital
-													Limited.</ol>
-												<ol>● Acquired skills during the training program in Accounting &amp; Financial Statement
-													Analysis,&nbsp;Case Study Analysis &amp; Group Presentations,&nbsp;Advanced Microsoft Excel,
-													PowerPoint &amp; Word, Networking,&nbsp;Financial News Review, Fine Dining Etiquette,
-													Networking, Oral and Written Communication</ol>
+												<ol>● Conducted exploratory data analysis with the team and identified useful features</ol>
+												<ol>● Co-wrote functions for ETL and model fitting with pipelines</ol>
+												<ol>● Created a cli to train, review and save ML model updates + evaluation reports</ol>
+												<ol>● Created an ML REST API to determine the appropriate 
+													classification channel for a given declared consignment 
+													in compliance to WTO standards. 
+													Demonstrated ease of integration to the RRA’s existing applications 
+													via a streamlit app demo.</ol>
+												<strong>Other notes</strong>
+												<ol>● Significant packages used: pandas, sklearn, fastapi, streamlit, poetry, joblib,
+													typer, rra-data (custom database package)</ol>
+												<ol>● TDD with devops on Gitlab, software architecting with UML & C4</ol>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
 										<div>
 											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - IC Asset Managers.jpg">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - cmu.png" width="120" height="120">
 												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">July 2017 - DECEMBER 2017</h6>
-													<h4><i>Business Analyst (intern),&nbsp;</i>IC Asset Managers (Ghana) Limited</h4>
+													<h6 class="uppercase mb8 number">October 2020 - PRESENT</h6>
+													<h4>Graduate Student Researcher, Carnegie Mellon University</h4>
 												</div>
 											</div>
-											<p>IC Asset Managers, an Inflexion Capital subsidiary, is a leading fund manager, serving retail
-												and institutional and sovereign clients with over USD 189mn in assets under management.</p>
+											<p>Working with Prof. Rita Singh and 3 coursemates from my deep learning course.
+												We're evaluating the generation of poetry by transformer models, specifically GPT-2.
+												Areas of focus: rhyming, rhythm, perplexity and coreferencing in poems.
+											<br>Currently, I work on rhyme scoring for evaluation and as a potential discriminator/loss
+											function. 
+											<br>See our team progress 
+											<a href="https://github.com/mfogelson/11-785_project"> here</a>. 
+											View my contributions 
+											<a href="https://github.com/mfogelson/11-785_project/commits?author=dexios1"> 
+												here.
+											</a>
+											<br>Others: Building an autograd deep learning toolkit akin to pytorch. 
+											Available on 
+												<a href="mailto:hello@chrisdare.me?cc=cdare@andrew.cmu.edu&subject=Request%20to%20review%20your%20mytorch%20repo&body=Hello%20Chris%2C%20%0A%0AWe%E2%80%99re%20reviewing%20your%20resume%20and%20would%20like%20to%20see%20your%20deep%20learning%20framework.%20Kindly%20grant%20the%20following%20users%20with%20access%20to%20your%20GitHub%20repository%3A%20username1%2C%20username2">
+													request
+												</a>.
+											</p>
+											
+											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+										</div>
+									</div>
+								</li>
+								
+								<li>
+									<div class="tab-title">
+										<span>2019</span>
+									</div>
+									<div class="tab-content text-left">
+										<div>
+											<div class="overflow-hidden">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - Serenity.png" width="240" >
+												<div class="pull-left p32 p0-xs pt24">
+													<h6 class="uppercase mb8 number">May 2019 - August 2019</h6>
+													<h4>Product Manager, Serenity Health</h4>
+												</div>
+											</div>
+											<p>Managed development of conversational medical record system for Serenity Health.
+												Co-led the team with a hands-on engineering approach. The outcome allowed doctors
+												and nurses to record and review patient visits 50% faster than before.</p>
 											<p>
-												<ol>● Optimized operations by ~10%: Architected and tested software for
-													importing financial statements, trade settlements and fund
-													performance reporting. Saved the firm $24K+ in hiring costs.</ol>
-												<ol>● Devised solution architecture for a “next-to-instant” liquidity
-													investment app projected to accommodate $100mn+ in assets
-													under management.</ol>
+												<ol>● Prioritized feature development, improved product roadmap, and introduced
+													clarity in implementation via storyboarding.</ol>
+													<ol>● Prototyped user interfaces for EMR and patient apps.</ol>
+											</p>
+											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+										</div>
+										<div>
+											<div class="overflow-hidden">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - cmu.png" width="120">
+												<div class="pull-left p32 p0-xs pt24">
+													<h6 class="uppercase mb8 number"> JULY 2019 - PRESENT</h6>
+													<h4>Graduate Student <br>Carnegie Mellon University Africa</h4>
+												</div>
+											</div>
+											<p>Started grad school at CMU. 
+												Taking classes, most machine learning, from Kigali and Pittsburgh
+											<br>Courses:</p>
+											<p>
+												<ol>● Strategic use of digital information in enterprises</ol>
+												<ol>● Artificial neural networks</ol>
+												<ol>● Speech signal processing</ol>
+												<ol>● Natural language processing</ol>
+												<ol>● Data structures and algorithms</ol>
+												<ol>● Research methods</ol>
+												<ol>● Introduction to human computer interaction</ol>
+												<ol>● Deep learning</ol>
+												<ol>● Privacy, policy, law and technology</ol>
+												<ol>● </ol>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
@@ -168,65 +235,52 @@
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
 									</div>
-									<div class="tab-content text-left">
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/avatar3.png">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">January 2019</h6>
-													<h4>???&nbsp;</h4>
-												</div>
-											</div>
-											<p>I haven't started this role yet, but that's where I'm headed.&nbsp;&nbsp;</p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/avatar4.png">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">???</h6>
-													<h4>MSIT Student, Carnegie Mellon University</h4>
-												</div>
-											</div>
-											<p> </p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-									</div>
 								</li>
 								<li>
-
+									<div class="tab-title">
+										<span>2017</span>
+									</div>
 									<div class="tab-content text-left">
 										<div>
 											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/avatar5.png">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - SEO Africa.png">
 												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">5:30pm - 06:30pm</h6>
-													<h4>Kane Thompson - Blasting Pesky Bugs</h4>
+													<h6 class="uppercase mb8 number">JuNE 2017</h6>
+													<h4>Graduated from Valley View University <br>with a CS Degree. An interest in
+														investing<br>led me to SEO Africa<br></h4>
 												</div>
 											</div>
 											<p>
-												Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-												laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
-												beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-												odit aut fugit, sed quia consequuntur magni
+												<ol>● CS Major at Valley View University</ol>
+												<ol>● President and Senator, Computing Science Students' Association (2016-2017)</ol>
+												<ol>● Graduated with a 3.31/4.00 CGPA and a 3.87 math CGPA</ol>
+												<ol>● Awarded "Best behaved Student"</ol>
+												<ol>●&nbsp;Admitted into the SEO Africa local internship program to work with Inflexion Capital
+													Limited.</ol>
+												<ol>● Acquired skills during the training program in Accounting &amp; Financial Statement
+													Analysis,&nbsp;Case Study Analysis &amp; Group Presentations,&nbsp;Advanced Microsoft Excel,
+													PowerPoint &amp; Word, Networking,&nbsp;Financial News Review, Fine Dining Etiquette,
+													Networking, Oral and Written Communication</ol>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
 										<div>
 											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/avatar6.png">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - IC Asset Managers.jpg">
 												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">7:00pm - 08:00pm</h6>
-													<h4>Grace Adler - Tolerating Canned Laughter</h4>
+													<h6 class="uppercase mb8 number">July 2017 - DECEMBER 2017</h6>
+													<h4><i>Business Analyst (intern),&nbsp;</i>IC Asset Managers (Ghana) Limited</h4>
 												</div>
 											</div>
+											<p>IC Asset Managers, an Inflexion Capital subsidiary, is a leading fund manager, serving retail
+												and institutional and sovereign clients with over USD 189mn in assets under management.</p>
 											<p>
-												At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum
-												deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non
-												provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et
-												dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum
-												soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere
-												possimus, omnis voluptas assumenda.
+												<ol>● Optimized operations by ~10%: Architected and tested software for
+													importing financial statements, trade settlements and fund
+													performance reporting. Saved the firm $24K+ in hiring costs.</ol>
+												<ol>● Devised solution architecture for a “next-to-instant” liquidity
+													investment app projected to accommodate $100mn+ in assets
+													under management.</ol>
 											</p>
 											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
 										</div>
@@ -237,7 +291,6 @@
 
 					</div>
 				</div>
-
 			</div>
 
 		</section>
