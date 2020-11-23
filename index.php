@@ -233,7 +233,6 @@
 												<ol>● Introduction to human computer interaction</ol>
 												<ol>● Deep learning</ol>
 												<ol>● Privacy, policy, law and technology</ol>
-												<ol>● IT innovation and business in Africa</ol>
 											</p>
 											<p>I had the opportunity to moderate a talk with H.E Paul Kagame, President of Rwanda. 
 												<div class="text-center">
