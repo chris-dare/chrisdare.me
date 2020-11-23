@@ -29,16 +29,15 @@
 				<div class="row">
 					<div class="col-sm-6">
 						<h1 class="mb0 uppercase bold italic">CHRIS DARE</h1>
-						<h5 class="uppercase mb32"> DATA SCIENTIST | CEO IN TRAINING</h5>
-						<p class="lead">Applied ML Grad student at Carnegie Mellon</p>
+						<h5 class="uppercase mb32"> SMART CREATIVE | CEO IN TRAINING</h5>
 
 						<p class="lead">Data scientist and engineer interested in ML/NLP R&D and 
 						building data-driven products/systems for emerging markets. 
 						Passionate about intrapreneurship, AI/cognitive systems and API development.
 						</p>
-
-						<p class="lead">My mission is to drive change and innovation across my home: The African Continent. 
-						I'm choosing to stay to here and join our future heroes unfold the story - ready to work with my sleeves folded up.</p>
+						<p class="lead">Applied ML Grad student at Carnegie Mellon. 
+							<br/>Africa focussed. 
+							<br/>Ready to work</p>
 					</div>
 				</div>
 
@@ -148,9 +147,49 @@
 								
 								<li>
 									<div class="tab-title">
-										<span>2019</span>
+										<span>2017 - 2019</span>
 									</div>
 									<div class="tab-content text-left">
+									<div>
+											<div class="overflow-hidden">
+												<img alt="Pic" class="mb24 pull-left" src="img/logo - Inflexion Capital Limited.png" >
+												<div class="pull-left p32 p0-xs pt24">
+													<h6 class="uppercase mb8 number">July 2017 - May 2019</h6>
+													<h4>Technology Analyst, Inflexion Capital</h4>
+												</div>
+											</div>
+											<p>Worked on asset management projects in partnership with 
+												<a href="https://icassetmanagers.com/" target="_blank" rel="noopener noreferrer">IC Asset Managers</a>, 
+												<a href="http://icsecurities.com/" target="_blank" rel="noopener noreferrer">IC Securities</a>  and 
+												<a href="https://mtn.com.gh/" target="_blank" rel="noopener noreferrer">MTN Ghana</a>.
+											<br/>
+											<strong>Highlight projects:</strong> Trustee portal for pension fund managers, corporate investment portal, MTN Ghana share offer  </p>
+											<p>
+												<ol>● Identified opportunities for automation and architected software to replace
+													human efforts in areas such as financial statement imports, trade settlements,
+													and quarterly reporting to fiduciaries. Saved the firm $24K+ in hiring costs.
+												</ol>
+												<ol>● Delivered a presentation to a corporate client on 2017 Q3 fund performance and
+													2017 Q4 outlook.</ol>
+												<ol>● Designed and managed development of a trustee portal to 
+													provide secure information search and retrieval for fund trustees.
+													<br>Made presentations first under supervision and later on my own to the firm's clients.
+												</ol>
+												<ol>● Co-wrote a corporate investment portal: Abstracts operational procedures from
+													fund managers.</ol>
+												<ol>● Devised solution architecture for a retail investment fund product with management. 
+													Projected to allow the firm to manage over $100mn more in assets
+												</ol>
+												<ol>● Performed user testing on software updates during MTN Ghana IPO share offer.</ol>
+												<ol>● Analyzed and automated processing and synchronization of text and image data
+													from 90,000+ IPO subscribers.</ol>
+												<ol>● Wrote technical, policy documentation for the IPO underwriter (IC Securities).</ol>
+												<ol>● Ran and completed financial reconciliations for all IPO USSD subscriptions.</ol>
+												
+											</p>
+											
+											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
+										</div>
 										<div>
 											<div class="overflow-hidden">
 												<img alt="Pic" class="mb24 pull-left" src="img/logo - Serenity.png" width="240" >
@@ -204,111 +243,14 @@
 										</div>
 									</div>
 								</li>
-								<li>
-									<div class="tab-title">
-										<span>2018</span>
-									</div>
-									<div class="tab-content text-left">
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - Inflexion Capital Limited.png">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">January 2018 - April 2018</h6>
-													<h4>Analyst, Inflexion Capital Limited</h4>
-												</div>
-											</div>
-											<p>Worked in the technology division: Inflexion Technologies, now a subsidiary: DARE Africa.</p>
-											<p>
-												<ol>● Developed software requirements and specifications for an instant liquidity investment app
-													<ol>● Built a KPI analytics application to monitor the subsidiary performance with Python and
-														PgSQL. Set up the application on Google Cloud (Compute Engine + Cloud Storage)
-														<ol>● Performed unit and usability tests for software products (cash fund and stock
-															subscription) for IC Asset Managers and IC Securities Holdings Limited<br>
-											</p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - IC Securities.png">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">MAY 2018 - SEPTEMBER 2018</h6>
-													<h4>Analyst, <br>MTN Ghana - IC Securities (Ghana) Limited</h4>
-												</div>
-											</div>
-											<p>Worked with an Inflexion Subsidiary, IC Securities, to raise USD 787mn for Scancom PLC (MTN
-												Ghana) - the biggest telco in Ghana and most visible brand in the country.</p>
-											<br>IC Securities is an Africa-focused investment banking and securities firm, serving sovereign,
-											institutional, corporate and individual clients.
-											<p>
-												<ol>● Handled technical support for 30 Banks and Brokerage institutions as well as retail
-													investors during the MTN Ghana share offer</ol>
-												<ol>● Performed usability tests on software updates during the share offer</ol>
-												<ol>● Worked on technical and policy documentation for IC Securities Holdings Limited</ol>
-												<ol>● Copywriting for IC Securities TradeLive platform</ol>
-												<ol>● Performed usability tests on IC Securities TradeLive platform</ol>
-												<ol>● Ran financial reconciliations for all USSD subscriptions</ol>
-												<ol>● Devised IC Securities' retail business strategy in a team with management</ol>
-												<ol>● Building a wealth management subsidiary with Inflexion Capital Management</ol>
-											</p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-									</div>
-								</li>
-								<li>
-									<div class="tab-title">
-										<span>2017</span>
-									</div>
-									<div class="tab-content text-left">
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - SEO Africa.png">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">JuNE 2017</h6>
-													<h4>Graduated from Valley View University <br>with a CS Degree. An interest in
-														investing<br>led me to SEO Africa<br></h4>
-												</div>
-											</div>
-											<p>
-												<ol>● CS Major at Valley View University</ol>
-												<ol>● President and Senator, Computing Science Students' Association (2016-2017)</ol>
-												<ol>● Graduated with a 3.31/4.00 CGPA and a 3.87 math CGPA</ol>
-												<ol>● Awarded "Best behaved Student"</ol>
-												<ol>●&nbsp;Admitted into the SEO Africa local internship program to work with Inflexion Capital
-													Limited.</ol>
-												<ol>● Acquired skills during the training program in Accounting &amp; Financial Statement
-													Analysis,&nbsp;Case Study Analysis &amp; Group Presentations,&nbsp;Advanced Microsoft Excel,
-													PowerPoint &amp; Word, Networking,&nbsp;Financial News Review, Fine Dining Etiquette,
-													Networking, Oral and Written Communication</ol>
-											</p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-										<div>
-											<div class="overflow-hidden">
-												<img alt="Pic" class="mb24 pull-left" src="img/logo - IC Asset Managers.jpg">
-												<div class="pull-left p32 p0-xs pt24">
-													<h6 class="uppercase mb8 number">July 2017 - DECEMBER 2017</h6>
-													<h4><i>Business Analyst (intern),&nbsp;</i>IC Asset Managers (Ghana) Limited</h4>
-												</div>
-											</div>
-											<p>IC Asset Managers, an Inflexion Capital subsidiary, is a leading fund manager, serving retail
-												and institutional and sovereign clients with over USD 189mn in assets under management.</p>
-											<p>
-												<ol>● Optimized operations by ~10%: Architected and tested software for
-													importing financial statements, trade settlements and fund
-													performance reporting. Saved the firm $24K+ in hiring costs.</ol>
-												<ol>● Devised solution architecture for a “next-to-instant” liquidity
-													investment app projected to accommodate $100mn+ in assets
-													under management.</ol>
-											</p>
-											<hr class="mt40 mb40 mt-xs-0 mb-xs-24">
-										</div>
-									</div>
-								</li>
+								
 							</ul>
 						</div>
 
 					</div>
 				</div>
+
+				
 			</div>
 
 		</section>
